@@ -40,3 +40,4 @@ void DoubleLinkedList::addNode() {
 	newNode->noMhs = nim; // step 2
 	newNode->name = nm; // step 2
 }
+
