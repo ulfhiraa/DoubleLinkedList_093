@@ -135,4 +135,4 @@ void DoubleLinkedList::revtraverse() {
 			currentNode = currentNode->prev;
 		}
 	}
-}
+} 
